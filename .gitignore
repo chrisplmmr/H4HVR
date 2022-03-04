@@ -1,0 +1,7 @@
+Binaries/
+Intermediate/
+Saved/
+Build/
+DerivedDataCache/ 
+.vs/
+*_BuiltData*
